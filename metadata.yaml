@@ -1,0 +1,33 @@
+_repo: Nouvelettes-of-the-musicians_71344
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellet, E. F. (Elizabeth Fries)
+    aliases:
+    - Ellet, Elizabeth Fries Lummis
+    - Ellet, Elizabeth F. (Elizabeth Fries)
+    - Lummis, Elizabeth Fries
+    birthdate: 1818
+    deathdate: 1877
+    gutenberg_agent_id: '45321'
+    url: http://www.gutenberg.org/2009/agents/45321
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_F._Ellet
+description: ''
+gutenberg_issued: '2023-08-04'
+identifiers:
+  gutenberg: '71344'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924022272417/page/n9/mode/2up
+pgterms:marc905: 20220918072839ellet
+pgterms:marc906: '1851'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bCornish, Lamport & Co., $c1851.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Nouvelettes of the musicians
+url: http://www.gutenberg.org/ebooks/71344

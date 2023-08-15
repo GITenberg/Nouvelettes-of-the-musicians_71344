@@ -1,5 +1,8 @@
 _repo: Nouvelettes-of-the-musicians_71344
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71344-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellet, E. F. (Elizabeth Fries)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45321
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_F._Ellet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71344#Nouvelettes-of-the-musicians
 gutenberg_issued: '2023-08-04'
 identifiers:
   gutenberg: '71344'
